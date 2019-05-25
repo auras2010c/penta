@@ -58,5 +58,8 @@
      </div>
   </div>
   <script src="js/javascript.js"></script>
+  <footer>
+  	<p>Copyright by AGC.</p>
+  </footer>
 </body>
 </html>
