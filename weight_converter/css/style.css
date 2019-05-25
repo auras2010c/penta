@@ -1,0 +1,16 @@
+body{
+	background-image: url("../img/background.jpg");
+}
+.container{
+	text-align:center;
+	padding-top:20px;
+}
+span{
+	color:green;
+	text-align:center;
+	font-family:Arial;
+	font-weight:bold;
+}
+h3{
+	text-align:left;
+}
